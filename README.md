@@ -1,7 +1,7 @@
 # TelegramBot - повторюша
 ![https://vk.com/b4shtirk1n](https://img.shields.io/badge/vk-blue.svg)
 
-блт который отправляет отправленные ему сообщения, фото и стикеры
+бот который отправляет отправленные ему сообщения, фото и стикеры
 
 ## для запуска необходимо:
 1. **IDE** ![https://code.visualstudio.com/](https://img.shields.io/badge/vscode-blue.svg) **или**
