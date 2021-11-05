@@ -1,3 +1,3 @@
-BOT_TOKEN = "2035104218:AAGFwCcAXFRK2N6P80tulyBcP00nfyHP0r0"
-admin_id = "477255564"
+BOT_TOKEN = ""
+admin_id = "ваш id"
 
