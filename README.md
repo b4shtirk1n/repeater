@@ -12,3 +12,5 @@
         1. asyncio
         2. aiogram
 
+перед запуском добавте в файл config.py APItoken и adminid
+
