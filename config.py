@@ -1,3 +1,3 @@
-BOT_TOKEN = ""
+BOT_TOKEN = "токен бота"
 admin_id = "ваш id"
 
