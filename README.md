@@ -9,7 +9,6 @@
 2. ![https://www.python.org/downloads/](https://img.shields.io/badge/python-3.10-yellow.svg)
 3. **Библиотеки**
 
-        1. discord
-        2. asyncio
-        3. flask
-        4. random
+        1. asyncio
+        2. aiogram
+
